@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+snscrape
+tweepy
+twarc
+plotly
+wordcloud
