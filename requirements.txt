@@ -6,3 +6,6 @@ tweepy
 twarc
 plotly
 wordcloud
+node2vec
+igraph
+python-louvain
